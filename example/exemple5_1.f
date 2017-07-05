@@ -1,9 +1,0 @@
-      doubleprecision function FUNC (x)                                                                                                                                                                                             
-        doubleprecision x                                                                                                                                                                                                           
-        doubleprecision t1                                                                                                                                                                                                          
-        doubleprecision t2                                                                                                                                                                                                          
-        t1 = x ** 2                                                                                                                                                                                                                 
-        t2 = t1 ** 2                                                                                                                                                                                                                
-        FUNC = 0.5D1 * t2 + 0.4D1 * x                                                                                                                                                                                               
-        return                                                                                                                                                                                                                      
-      end
